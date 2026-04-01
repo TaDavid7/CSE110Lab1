@@ -21,12 +21,12 @@ Some famous quotes from star wars are on this [website](https://parade.com/39385
 Personally, Yoda has the coolest quotes
 
 ### Star War movies Left to Watch
-- [x] *A New Hope*
-- [x] *Revenge of the Sith*
-- [ ] *The Phantom Menace*
-- [ ] *Attack of the Clones*
-- [ ] *The Empire Strikes Back*
-- [ ] *Return of the Jedi*
+- [x]  *A New Hope*
+- [x]  *Revenge of the Sith*
+- [ ]  *The Phantom Menace*
+- [ ]  *Attack of the Clones*
+- [ ]  *The Empire Strikes Back*
+- [ ]  *Return of the Jedi*
 
 I have seen clips of Star Wars movies but I haven't really watched movies the whole way through. I did not fully watch Revenge of the Sith but there is a lot of clips that I get the general idea of what happened
 
@@ -37,6 +37,7 @@ Some songs from Stars wars I want to learn include
 - *Star Wars Main Theme*
 - *Anakin vs. Obi-Wan*
 - *The Throne Room and End Title*
+
 Some of these might be piano arrangements or just orchestra ones
 
 
