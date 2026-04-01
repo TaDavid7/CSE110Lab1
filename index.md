@@ -16,6 +16,10 @@ This is how I view other programming languages
 5. C
 6. Go
 
+### Cool quotes
+Some famous quotes from star wars are on this [website](https://parade.com/393857/lharris-2/20-of-the-most-epic-star-wars-quotes-of-all-time/). <br>
+Personally, Yoda has the coolest quotes
+
 ### Star War movies Left to Watch
 - [x] *A New Hope*
 - [x] *Revenge of the Sith*
@@ -24,10 +28,7 @@ This is how I view other programming languages
 - [ ] *The Empire Strikes Back*
 - [ ] *Return of the Jedi*
 
-### Cool quotes
-Some famous quotes from star wars are on this [website](https://parade.com/393857/lharris-2/20-of-the-most-epic-star-wars-quotes-of-all-time/). <br>
-Personally, Yoda has the coolest quotes
-
+I have seen clips of Star Wars movies but I haven't really watched movies the whole way through. I did not fully watch Revenge of the Sith but there is a lot of clips that I get the general idea of what happened
 
 ### Cool songs
 Some songs from Stars wars I want to learn include
@@ -36,11 +37,11 @@ Some songs from Stars wars I want to learn include
 - *Star Wars Main Theme*
 - *Anakin vs. Obi-Wan*
 - *The Throne Room and End Title*
+Some of these might be piano arrangements or just orchestra ones
 
 
 
 ### Adding quotes cool to you
-Link to section above with website: [Jump](#cool-quotes) <br>
 Heres my favorite quote from Yoda
 > *Do or do not, there is no try*
 
@@ -50,3 +51,6 @@ git add starwarsquotes.txt
 git commit -m "my quotes"
 git push
 ```
+
+For quotes to add, check the website up above
+Link to section above for inspiration: [Here](#cool-quotes)
